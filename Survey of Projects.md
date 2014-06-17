@@ -1,4 +1,5 @@
 ###A Survey of Existing Open-Source Projects
+######By: Sariya Siddiqui
 
 This paper evaluates the community interest, documentation, and code base of three open-source projects: PsychoPy, jEdit, and OpenOffice.
 
